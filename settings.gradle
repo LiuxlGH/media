@@ -1,0 +1,7 @@
+include ':aspectjx'
+include ':tvdiaplay'
+include ':where'
+include ':common'
+include ':controller'
+include ':app'
+rootProject.name = "Provider"
